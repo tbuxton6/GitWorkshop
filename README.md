@@ -8,5 +8,7 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+1)Thomas Buxton
+2)a)I love studying history. b)I am half French and I can speak the language fluently. c)I am a Star Wars fan.
+3)The reason I took this course is to learn the iner workings of my computer, become proficient in at least one coding language, and be able to creat some simple software.
+I also want to get into the Air Force and computer science helps.
